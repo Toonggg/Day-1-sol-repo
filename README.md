@@ -1,2 +1,3 @@
-# Day-1-sol-repo
- Solutions to day 1
+# participants
+Exercises for lecture on git
+advanced Github!
